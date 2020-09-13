@@ -1,4 +1,4 @@
-# text-vercel-serverless
+# serverless-nextjs-mongodb
 
 Fork de um projeto da equipe RocketSeat, esse código tem como objetivo construir uma interface web para cadastro de e-mail em um banco MongoDB através de uma função serverless.
 
