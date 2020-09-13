@@ -1,41 +1,31 @@
-<br>
-<div align="center">
-  <img width="300" alt="NextJS-ChakraUI" src="./.github/assets/Nextjs-ChakraUI.png" />
+# text-vercel-serverless
 
-  <h4 align="center">
-     Next.js, declarative UI and design systems applied to ReactJS. Access the tutorial <a href="https://www.youtube.com/watch?v=6TEo2AxW-oQ">here</a>
-  </h4>
-</div>
+Fork de um projeto da equipe RocketSeat, esse código tem como objetivo construir uma interface web para cadastro de e-mail em um banco MongoDB através de uma função serverless.
 
 ---
 
-<p align="center">
-  <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/eugustavo/youtube-nextjs-design-system" />
-  <img alt="Github License" src="https://img.shields.io/github/license/eugustavo/youtube-nextjs-design-system" />
-</p>
+## Executando o projeto
 
-<p align="center">
-  <img alt="Rocketseat" src="./.github/assets/login-rocketseat.png">
-</p>
+Após clonar este projeto, é importante incluir a URL de conexão com seu banco MongDB. Para isso, crie um arquivo **.env** na raíz do projeto e adcione a URL de conexão (observe o **.env.example**). Em seguida, execute os comandos abaixo.
 
+```
+npm install || yarn
 
-## 🚀 Getting started
-
-To clone and run the application, you will need to have [Git](https://git-scm.com), [Node.js](https://nodejs.org) + [Yarn](https://yarnpkg.com) installed on your machine. With all programs installed, run the following command lines:
-
-
-```bash
-# Clone this repository
-$ git clone https://github.com/rocketseat-content/youtube-nextjs-design-system
-
-# Access the repository
-$ cd youtube-nextjs-design-system
-
-# Install the dependencies
-$ yarn install
-
-# Run application
-$ yarn dev
+npm run dev || yarn dev
 ```
 
+Agora acesse o endereço *http://localhost:3000/* para ter acesso à aplicação.
 
+---
+
+## Contato
+welingtonfidelis@gmail.com
+</br>
+Sujestões e pull requests são sempre bem vindos 😃
+
+License
+----
+
+MIT
+
+**Free Software, Hell Yeah!**
